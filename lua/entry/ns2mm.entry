@@ -1,0 +1,7 @@
+modEntry = [[
+Client: lua/MMClient.lua,
+Server: lua/MMServer.lua,
+Shared: lua/MMShared.lua,
+Loading: lua/MMLoading.lua,
+Priority: 5
+]]

@@ -1,0 +1,8 @@
+<game>
+    <name>ns2mm</name>
+    <description>NS2 Matchmaking</description>
+    <client>lua/MMClient.lua</client>
+    <predict>lua/MMPredict.lua</predict>
+    <server>lua/MMServer.lua</server>
+    <loading>lua/MMLoading.lua</loading>
+</game>
